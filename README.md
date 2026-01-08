@@ -119,14 +119,8 @@ The adaptive framework is applicable to a wide range of navigation challenges, s
 
    - Go to `Project Settings > XR Plugin Management`
    - Enable **XR Plugin Management**
-   - Adjust **Player Settings** for XR input and resolution
    - Install **Oculus Integration** or **OpenXR Plugin** via the **Package Manager**
 
 ---
 
-### 🎧 VR Support
-
-- Connect your VR headset (e.g., **Meta Quest 2**)
-- Enable the appropriate XR backend (e.g., **Oculus** or **OpenXR**)
-- Press **Play** in the Unity Editor or **Build and Run** to deploy to your VR device (e.g., Android build for Quest)
-[🎥 Watch Demo Video](https://youtu.be/Cuw38cmNoQk)
+### 🎥 Watch Demo Video (https://youtu.be/Cuw38cmNoQk)

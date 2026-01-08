@@ -1,4 +1,4 @@
-# VR-based_Wayfinding
+# VR-based Wayfinding
 Wayfinding Strategy Demo
 AI-Assisted Adaptive Wayfinding in Urban VR Navigation
 

@@ -53,9 +53,9 @@ The current system is **rule-based**, with future plans to integrate **machine l
 
 **Subjective Measures (to be added):**
 
-- Simulator Sickness Questionnaire (SSQ)  
-- Presence Questionnaire (PQ)  
-- System Usability Scale (SUS)  
+- Simulator Sickness Questionnaire
+- Presence Questionnaire
+- System Usability Scale
 - Wayfinding Strategy Questionnaire  
 - Demographics and prior VR/navigation experience
 
@@ -93,7 +93,7 @@ The adaptive framework is applicable to a wide range of navigation challenges, s
 
 ## 🖥️ System Requirements
 
-- Unity **2021.3 LTS** or later  
+- Unity **2022.3** or later  
 - VR headset (tested on **Meta Quest 3**)  
 - [Git LFS](https://git-lfs.com) for asset version control  
 
@@ -112,7 +112,7 @@ The adaptive framework is applicable to a wide range of navigation challenges, s
 
    - Launch **Unity Hub**
    - Click **Add** and select the folder `VR-based_Wayfinding`
-   - Recommended Unity version: **2021.3 LTS or later**
+   - Recommended Unity Editor version: **2022.3 or later**
    - Load the scene: `Assets/Scenes/WayfindingExperiment.unity`
 
 3. **Configure Project Settings**

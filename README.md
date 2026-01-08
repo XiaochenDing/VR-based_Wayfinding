@@ -3,19 +3,19 @@
 
 This project explores an AI-assisted, sensor-driven, real-time adaptive wayfinding system designed to improve navigation performance and reduce cognitive load during complex urban transitions, such as moving from street-level environments into underground metro stations.
 
----
+
 
 ## 🔍 Research Objective
 
 To evaluate whether adaptive multimodal guidance (visual, auditory, and potentially haptic), triggered by real-time behavioral cues, can outperform conventional static navigation tools (e.g., static maps) in VR-based urban navigation tasks.
 
----
+
 
 ## 🧪 Experimental Task
 
 Participants navigate through a VR environment simulating a **city-to-subway transition**. These spatial handover zones often challenge standard tools like Google Maps, especially when navigating **vertical transitions** where above-ground and underground spaces overlap in location but differ in spatial logic.
 
----
+
 
 ## 🧠 Adaptive Strategy
 
@@ -32,7 +32,7 @@ These cues trigger adaptive guidance:
 
 The current system is **rule-based**, with future plans to integrate **machine learning** using collected behavioral data.
 
----
+
 
 ## 🎮 Experimental Conditions
 
@@ -42,7 +42,7 @@ The current system is **rule-based**, with future plans to integrate **machine l
 - **Condition B – Adaptive Guidance**  
   Dynamic, behavior-triggered visual and audio prompts
 
----
+
 
 ## 📊 Data Collection
 
@@ -59,7 +59,7 @@ The current system is **rule-based**, with future plans to integrate **machine l
 - Wayfinding Strategy Questionnaire  
 - Demographics and prior VR/navigation experience
 
----
+
 
 ## 🌐 Generalizability
 
@@ -70,7 +70,7 @@ The adaptive framework is applicable to a wide range of navigation challenges, s
 - **GPS drift compensation** in dense urban areas  
 - **Precise landmark recognition** using VR’s spatial tracking
 
----
+
 
 ## ⚠️ Limitations & Future Work
 
@@ -81,7 +81,7 @@ The adaptive framework is applicable to a wide range of navigation challenges, s
    - Haptic feedback (e.g., controller or wristband vibration)  
    - Group-responsive personalization
 
----
+
 
 ## 📦 Assets Used
 
@@ -89,7 +89,7 @@ The adaptive framework is applicable to a wide range of navigation challenges, s
 - **Metro Station Model**: [CGTrader Download](https://www.cgtrader.com/items/6687633/download-page)  
 - **Audio Cues**: [Mixkit Sound Effects](https://mixkit.co/free-sound-effects/bell/)
 
----
+
 
 ## 🖥️ System Requirements
 
@@ -97,7 +97,7 @@ The adaptive framework is applicable to a wide range of navigation challenges, s
 - VR headset (tested on **Meta Quest 3**)  
 - [Git LFS](https://git-lfs.com) for asset version control  
 
----
+
 
 ## 🛠️ Getting Started
 
@@ -121,6 +121,6 @@ The adaptive framework is applicable to a wide range of navigation challenges, s
    - Enable **XR Plugin Management**
    - Install **Oculus Integration** or **OpenXR Plugin** via the **Package Manager**
 
----
+
 
 ### 🎥 Watch Demo Video (https://youtu.be/Cuw38cmNoQk)
